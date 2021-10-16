@@ -4,6 +4,7 @@ import 'fooderlich_theme.dart';
 
 void main() {
   runApp(const Fooderlich());
+  
 }
 
 class Fooderlich extends StatelessWidget {
