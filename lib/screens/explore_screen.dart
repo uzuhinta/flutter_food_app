@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
-
-import '../components/components.dart';
-import '../models/models.dart';
-import '../api/mock_fooderlich_service.dart';
+import 'package:fooderlich/api/mock_fooderlich_service.dart';
+import 'package:fooderlich/components/components.dart';
+import 'package:fooderlich/models/models.dart';
 
 class ExploreScreen extends StatelessWidget {
   // 1

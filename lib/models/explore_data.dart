@@ -1,4 +1,6 @@
-import 'models.dart';
+
+
+import 'package:fooderlich/models/models.dart';
 
 class ExploreData {
   final List<ExploreRecipe> todayRecipes;

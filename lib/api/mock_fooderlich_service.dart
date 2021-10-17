@@ -1,6 +1,7 @@
 import 'dart:convert';
 import 'package:flutter/services.dart' show rootBundle;
-import '../models/models.dart';
+import 'package:fooderlich/models/models.dart';
+
 
 // Mock recipe service that grabs sample json data to mock recipe request/response
 class MockFooderlichService {

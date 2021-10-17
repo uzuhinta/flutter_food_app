@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
+import 'package:fooderlich/fooderlich_theme.dart';
 import 'package:fooderlich/models/profile_manager.dart';
 import 'package:fooderlich/screens/home.dart';
 import 'package:fooderlich/models/models.dart';
 import 'package:fooderlich/navigation/app_router.dart';
 import 'package:provider/provider.dart';
-import 'fooderlich_theme.dart';
 
 void main() {
   runApp(const Fooderlich());
